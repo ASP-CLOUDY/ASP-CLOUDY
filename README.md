@@ -214,7 +214,7 @@ available   : true
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/asp-cloud)
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](http://abhipande.online)
 [![Email](https://img.shields.io/badge/Send%20Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pandeabhishek212@outlook.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASP-CLOUDY)
