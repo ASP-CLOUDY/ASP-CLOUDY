@@ -124,28 +124,29 @@ available   : true
 <tr>
 <td width="50%">
 
-### 🎓 Student Attendance System V2
-`AWS` `Docker` `Kubernetes` `GitHub Actions` `Prometheus` `Grafana`
+### 🛒 Abhi-Ejaz Shop – Cloud Native E-Commerce Platform
+`AWS EKS` `Docker` `Kubernetes` `Jenkins` `Argo CD` `Terraform` `Prometheus` `Grafana`
 
-- 🐳 Dockerized React & Spring Boot — multi-stage builds
-- ⚡ HPA reduced response time by **40%** under load
-- 🔵 BlueGreen deployment → **zero downtime** releases
-- 🔐 Namespace-level RBAC access control
-- ⏱️ CI/CD cut deploy time: **15 min → 3 min**
-- 🌐 External traffic via Kubernetes Ingress Controller
+- 🐳 Dockerized Spring Boot & MySQL application with multi-stage builds
+- ☸️ Deployed on Amazon EKS using Kubernetes Deployments, Services & Ingress
+- 🚀 GitOps CI/CD pipeline with Jenkins, SonarQube, Docker Hub & Argo CD
+- 📊 Prometheus & Grafana for real-time monitoring and performance dashboards
+- 🔄 Rolling Updates enabled **zero-downtime** application deployments
+- ⚡ CI/CD reduced deployment time from **20 min → 5 min**
+- 🌐 External traffic routed through Kubernetes Ingress Controller
 
 </td>
 <td width="50%">
 
-### 🏛️ AWS 3-Tier Web Architecture
-`EC2` `VPC` `ALB` `ASG` `RDS` `IAM` `CloudWatch`
+  ### 🎯 SkillPulse – DevOps Dashboard
+`AWS` `Docker` `Docker Compose` `Jenkins` `GitHub Actions` `MySQL` `Nginx`
 
-- 🌐 Secure VPC with public/private subnets & NAT GW
-- ⚖️ Application Load Balancer + Auto Scaling Group
-- 🔒 Network ACLs, Security Groups, IAM roles
-- 📊 Cost optimized via AWS Billing monitoring
-- 🗄️ Full-stack: React + Spring Boot + MariaDB
-- 🔁 Designed for high availability & fault tolerance
+- 🐳 Dockerized React, Spring Boot & MySQL with Docker Compose
+- 🚀 Automated CI/CD using GitHub Actions & Jenkins
+- ⚡ Reduced deployment time from **10 min → 2 min**
+- 🔄 Multi-container architecture with persistent MySQL storage
+- 📊 Real-time dashboard displaying skills, learning hours & activity metrics
+- 🌐 Reverse proxy with Nginx for seamless frontend-backend communication
 
 </td>
 </tr>
