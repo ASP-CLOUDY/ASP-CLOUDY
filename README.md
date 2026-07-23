@@ -20,7 +20,7 @@
 ```yaml
 name        : Abhishek Pande
 title       : Cloud DevOps Engineer
-location    : Nashik, Maharashtra, India 🇮🇳
+location    : Pune, Maharashtra, India 🇮🇳
 focus:
   - AWS Cloud Architecture & Security
   - Container Orchestration (Kubernetes & Docker)
@@ -174,7 +174,7 @@ available   : true
 
 | Role | Company | Period | Key Focus |
 |---|---|---|---|
-| 🖥️ **Cloud DevOps Trainee** | CloudBlitz | Nov 2025 – Jun 2026 | AWS · Linux · Docker · Kubernetes · Terraform · CI/CD |
+| 🖥️ **DevOps Engineer Intern** | Hisan Labs Pvt Limited | Feb 2026 – Current | AWS · Linux · Docker · Kubernetes · Terraform · CI/CD |
 | 📦 **Junior Accountant** | KP & Associates | Jan 2023 – Feb 2025 | Operations · Audits · Taxations |
 | 📈 **Trader & Investment Advisor** *(Part-Time)* | Self-Employed | 2022 – Mar 2026 | Portfolios · Risk Assessment · Market Research |
 
